@@ -4,10 +4,10 @@
 <br />
 <br />
 
-![Capture](images/consensus/Capture)
+![Capture](images/consensus/Capture.PNG)
 
 <br />
 
-![Capture1](images/consensus/Capture1)
+![Capture1](images/consensus/Capture1.PNG)
 
 <br />
