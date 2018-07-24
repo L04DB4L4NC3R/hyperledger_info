@@ -15,10 +15,6 @@
 <br />
 <br />
 
-![Iroha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4UmmkDm7XC3I4l3JKO9-Wt6cjjpPUmCbVZXG74u75h__HjCHgwQ)
-
-<br />
-<br />
 
 ![Sawtooth](https://www.hyperledger.org/wp-content/uploads/2018/01/Hyperledger_Sawtooth_Logo_Color.png)
 
@@ -26,7 +22,12 @@
 <br />
 
 
-![The Linux Foundation](https://lever-client-logos.s3.amazonaws.com/8de8cce1-db5c-47ac-b756-7878afc1e85d-1504712835324.png)
+![Iroha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4UmmkDm7XC3I4l3JKO9-Wt6cjjpPUmCbVZXG74u75h__HjCHgwQ)
+
+<br />
+<br />
+
+![The Linux Foundation](https://zdnet4.cbsistatic.com/hub/i/r/2016/01/22/e14f411e-34c2-4832-867a-57dd2586d02e/crop/1100x393+0+72/63f104778edc37e8b09e5d2b156f995e/linuxfoundationlogo.png)
 
 <br />
 <br />
