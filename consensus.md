@@ -12,22 +12,22 @@
 
 <br />
 
-![Capture1](images/consensus/Capture2.PNG)
+![Capture2](images/consensus/Capture2.PNG)
 
 <br />
 
-![Capture1](images/consensus/Capture3.PNG)
+![Capture3](images/consensus/Capture3.PNG)
 
 <br />
 
-![Capture1](images/consensus/Capture4.PNG)
+![Capture4](images/consensus/Capture4.PNG)
 
 <br />
 
-![Capture1](images/consensus/Capture5.PNG)
+![Capture5](images/consensus/Capture5.PNG)
 
 <br />
 
-![Capture1](images/consensus/Capture6.PNG)
+![Capture6](images/consensus/Capture6.PNG)
 
 <br />
