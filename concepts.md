@@ -8,10 +8,6 @@
 
 <br />
 
-![Alt text](images/Capture1.PNG)
-
-<br />
-
 ![Alt text](images/Capture2.PNG)
 
 <br />
