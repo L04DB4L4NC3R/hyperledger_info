@@ -31,3 +31,7 @@
 ![Capture6](images/consensus/Capture6.PNG)
 
 <br />
+
+![Capture7](images/consensus/Capture7.PNG)
+
+<br />
