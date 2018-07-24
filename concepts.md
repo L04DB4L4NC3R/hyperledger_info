@@ -4,7 +4,7 @@
 <br />
 <br />
 
-![Alt text](images/Capture)
+![Alt text](./images/Capture)
 
 <br />
 
