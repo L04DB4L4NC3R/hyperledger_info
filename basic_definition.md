@@ -31,3 +31,23 @@
 ![Alt text](images/definition/Capture7.PNG)
 
 <br />
+<br />
+<br />
+
+
+### Blockchain use cases
+---
+
+<br />
+
+![Capture8](images/definition/Capture8.PNG)
+
+<br />
+
+![Capture8](images/definition/Capture9.PNG)
+
+<br />
+
+![Capture8](images/definition/Capture10.PNG)
+
+<br />
